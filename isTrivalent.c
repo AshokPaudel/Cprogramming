@@ -56,7 +56,6 @@ int isTrivalent(int a[],int len){
                 count++;
             }
         }
-
     }
     //printf("count=%d",count);
     if(count==3){return 1;}
